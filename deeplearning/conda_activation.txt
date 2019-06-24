@@ -1,0 +1,9 @@
+#
+# To activate this environment, use
+#
+#     $ conda activate deeplearning-labs-gpu
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
+
